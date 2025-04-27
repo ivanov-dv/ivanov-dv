@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python, Backend.
 - 🌱 I’m currently learning CI/CD.
 - 📫 How to reach me: ivanov.denis@bk.ru
+- 💻 Working git: [gitlab](https://gitlab.com/ivanov-dv) 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanov-dv&show_icons=true&theme=transparent)
 <!---
