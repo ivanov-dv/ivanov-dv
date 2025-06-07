@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis Ivanov.
-- 👀 I’m interested in Python, Backend.
+- 👀 I’m interested in Python, Backend, AI.
 - 🌱 I’m currently learning Kubernetes, CI/CD, Pytorch.
 - 📫 How to reach me: ivanov.denis@bk.ru
 - 💻 Working git: [gitlab](https://gitlab.com/ivanov-dv) 
