@@ -1,3 +1,5 @@
-![Banner](banner.png)
-
-[GitLab](https://gitlab.com/ivanov-dv) · [Email](mailto:ivanov.denis@bk.ru)
+- 👋 Hi, I'm Denis Ivanov.
+- 👀 I'm interested in Python, backend development, and AI.
+- 🌱 I'm currently learning software architecture and Go.
+- 📫 How to reach me: [ivanov.denis@bk.ru](mailto:ivanov.denis@bk.ru).
+- 💻 Work GitLab: [GitLab](https://gitlab.com/ivanov-dv).
