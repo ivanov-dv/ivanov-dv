@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Denis Ivanov.
-- 👀 I’m interested in Python, Backend, AI.
-- 🌱 I’m currently learning software architecture, golang.
-- 📫 How to reach me: ivanov.denis@bk.ru.
-- 💻 Working git: [gitlab](https://gitlab.com/ivanov-dv).
+- 👋 Hi, I'm Denis Ivanov.
+- 👀 I'm interested in Python, backend development, and AI.
+- 🌱 I'm currently learning software architecture and Go.
+- 📫 How to reach me: [ivanov.denis@bk.ru](mailto:ivanov.denis@bk.ru).
+- 💻 Work GitLab: [GitLab](https://gitlab.com/ivanov-dv).
